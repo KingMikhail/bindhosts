@@ -18,7 +18,7 @@ on:
         default: false
 
 env:
-  MODULE_NAME: 'bindhosts'
+  MODULE_NAME: 'BindHosts'
 
 jobs:
   release:
